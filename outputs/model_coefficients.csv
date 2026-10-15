@@ -1,0 +1,19 @@
+,coefficient
+Credit_Score,0.3886
+Monthly_Income_EGP,0.2125
+Existing_Loans,-0.1822
+Age,-0.1677
+Loan_Amount_EGP,-0.1377
+Monthly_Debt_EGP,-0.116
+Employment_Years,0.0922
+Loan_Term_Months,-0.0867
+Education_High School,0.0859
+Loan_To_Income,0.0791
+Employment_Type_Self-Employed,-0.0774
+Education_Master,0.0467
+Total_DTI,-0.0437
+Home_Ownership_Rent,-0.0435
+Home_Ownership_Own,-0.0352
+Monthly_Installment,-0.0255
+Employment_Type_Salaried,0.0204
+Debt_To_Income,-0.0063
